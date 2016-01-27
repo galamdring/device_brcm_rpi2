@@ -38,3 +38,5 @@ USE_CAMERA_STUB := true
 
 BOARD_SEPOLICY_DIRS := \
     device/brcm/rpi2/sepolicy
+
+TARGET_TS_DEVICE :="ads7846"
